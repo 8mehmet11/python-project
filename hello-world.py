@@ -1,2 +1,2 @@
 print("hello world")
-bişeyler çakışmıyor mu ki
+print(bişeyler çakışmıyor mu ki)
